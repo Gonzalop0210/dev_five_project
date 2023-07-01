@@ -10,4 +10,12 @@
     .name {
         font-size: 2em;
     }
+
+    .container_box_followers {
+        width: 10%;
+    }
+
+    .footer {
+        margin-bottom: 20px;
+    }
 }
